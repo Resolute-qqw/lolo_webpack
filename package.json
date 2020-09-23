@@ -1,0 +1,15 @@
+{
+  "name": "lolo_webpack",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "bundle": "webpack"
+  },
+  "author": "qqw",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
